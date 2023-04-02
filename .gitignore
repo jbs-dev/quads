@@ -5,6 +5,8 @@
 *.dll
 *.o
 *.so
+*.mod
+*.sum
 
 # Packages #
 ############
